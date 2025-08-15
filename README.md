@@ -3,7 +3,7 @@
 Welcome to the **Mario Game Dev** project!  
 This web-based platform showcases the latest trailers for movies, games, and anime — all styled with the charm of the Mario universe.
 
----123123123123
+---MAX
 
 ## 📑 Table of Contents
 
