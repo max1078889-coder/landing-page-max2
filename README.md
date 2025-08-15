@@ -3,7 +3,7 @@
 Welcome to the **Mario Game Dev** project!  
 This web-based platform showcases the latest trailers for movies, games, and anime — all styled with the charm of the Mario universe.
 
----
+---123123123123
 
 ## 📑 Table of Contents
 
@@ -24,7 +24,13 @@ This web-based platform showcases the latest trailers for movies, games, and ani
 
 ![Demo Screenshot](./src/images/screenshot.png)
 
-👉 **Live Demo: https://worachat-dev.github.io/Landing-Page-Game-Dev-Profiles/**
+<p>
+  👉 **Live Demo:** 
+  <a href="https://worachat-dev.github.io/Landing-Page-Game-Dev-Profiles/" target="_blank">
+  
+  </a>
+</p>
+
 
 ---
 
